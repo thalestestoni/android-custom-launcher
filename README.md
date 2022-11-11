@@ -1,7 +1,7 @@
-# 📲 About the project
+## 📲 About the project
 This project open a custom launcher on android. I develop this project in my graduation degree to study android.
 
-# ⚙️ How to run
+## ⚙️ How to run
 To fast run, i recommend that you install [Android Studio](https://developer.android.com/studio) to open and run this project.
 
 After android studio installed, you need a android device or an emulator to execute the android app.
